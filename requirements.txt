@@ -11,3 +11,5 @@ sqlalchemy
 pgvector
 psycopg[binary]
 pypdf
+streamlit
+typer

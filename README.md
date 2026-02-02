@@ -10,7 +10,9 @@ This application combines the power of:
 - **GitHub Models** for text embeddings
 - **Streamlit** for an intuitive web interface
 
-![PDF Assistant Demo](screenshot.png)
+## PDF Assistant Demo
+<img width="1916" height="1027" alt="Screenshot 2026-02-03 012511" src="https://github.com/user-attachments/assets/b74d0c50-a5dd-43c4-bf9e-8829b3c4600e" />
+
 
 ## ✨ Features
 
